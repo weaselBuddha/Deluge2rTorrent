@@ -14,3 +14,4 @@ And pyroscopes pyrocore to create fast resume rtorrent torrent
 
 pip install pyrocore
 
+More details: https://www.reddit.com/r/seedboxes/comments/jygxfj/deluge2rtorrent_yet_another_tool_to_migrate/
